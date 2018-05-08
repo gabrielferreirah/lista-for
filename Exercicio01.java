@@ -4,7 +4,7 @@ public class Exercicio01 {
 
 	public static void main(String[] args) {
 
-		int numero = Integer.parseInt(JOptionPane.showInputDialog(null, "Digite o numero que deseja"));
+		int numero = Integer.parseInt(JOptionPane.showInputDialog(null, "Digite o numero que deseja a tabuada"));
 		String texto = "";
 
 		for (int i = 0; i <= 10; i++) {

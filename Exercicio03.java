@@ -9,6 +9,6 @@ public class Exercicio03{
             }
             texto = texto + "\n";
         }
-        JOptionPane.showMessageDialog(null, texto);
+        System.out.println(texto);
     }
 }
